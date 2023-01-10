@@ -1,11 +1,19 @@
 body {
     background-color: black;
-    color: white;
+    color: #fff;
 }
 
 
 article {
-    background-color: rgb(44, 43, 43;
-    }
+    background-color: rgb(44, 43, 43);
+}
 
-  {}
+.resaltado {
+    color: yellow;
+}
+
+#Titulo_del_blog {
+    text-align: center;
+    font-size: 3rem;
+}
+
